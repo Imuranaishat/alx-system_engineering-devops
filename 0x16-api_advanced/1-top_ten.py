@@ -1,4 +1,6 @@
-s module contains the function top_ten
+#!/usr/bin/python3
+'''
+    this module contains the function top_ten
 '''
 import requests
 from sys import argv
